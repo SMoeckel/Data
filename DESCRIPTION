@@ -1,0 +1,9 @@
+Package: OSDataAVS
+Type: Package
+Title: Outside evidence data repository
+Version: 0.5
+Date: 2014-05-15
+Author: Dr. Steffen R. Möckel
+Maintainer: Who to complain to <dr.s.moeckel@contrabass.biz>
+Description: More about what it does (maybe more than one line)
+License: For Anvis Group only
