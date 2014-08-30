@@ -1,0 +1,766 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.26)  28 AUG 2014 22:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**AVS_OS_Docu.tex
+(./AVS_OS_Docu.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box26
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/wallpaper/wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen113
+\calc@Bdimen=\dimen114
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count93
+\calc@Cskip=\skip54
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\wpXoffset=\skip55
+\wpYoffset=\skip56
+\tileXoffset=\skip57
+\tileYoffset=\skip58
+\tilewidth=\skip59
+\tileheight=\skip60
+\tileX=\skip61
+\tileY=\skip62
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/05/13 v2.10 `tabularx' package (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen115
+\extrarowheight=\dimen116
+\NC@list=\toks16
+\extratabsurround=\skip63
+\backup@length=\skip64
+)
+\TX@col@width=\dimen117
+\TX@old@table=\dimen118
+\TX@old@col=\dimen119
+\TX@target=\dimen120
+\TX@delta=\dimen121
+\TX@cols=\count94
+\TX@ftn=\toks17
+)
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Sweave.sty
+Package: Sweave 
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count95
+\FV@InFile=\read1
+\FV@TabBox=\box27
+\c@FancyVerbLine=\count96
+\FV@StepNumber=\count97
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+))))
+(./AVS_OS_Docu.aux)
+\openout1 = `AVS_OS_Docu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 10.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen123
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box29
+
+(./ctbtitle.tex
+Package epstopdf Info: Source file: <./AVS_logo.eps>
+(epstopdf)                    date: 2014-07-13 15:10:55
+(epstopdf)                    size: 13293 bytes
+(epstopdf)             Output file: <./AVS_logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:21
+(epstopdf)                    size: 5810 bytes
+(epstopdf)             Command: <repstopdf --outfile=./AVS_logo-eps-converted-t
+o.pdf ./AVS_logo.eps>
+(epstopdf)             \includegraphics on input line 11.
+Package epstopdf Info: Output file is already uptodate.
+ <./AVS_logo-eps-converted-to.pdf, id=1, 184.69pt x 81.30376pt>
+File: ./AVS_logo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./AVS_logo-eps-converted-to.pdf>
+Package pdftex.def Info: ./AVS_logo-eps-converted-to.pdf used on input line 11.
+
+(pdftex.def)             Requested size: 125.47737pt x 55.23743pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+
+ []
+
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 34.
+Package epstopdf Info: Output file is already uptodate.
+<./ctb_logo_uright-eps-converted-to.pdf, id=2, 42.1575pt x 14.0525pt>
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 34.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+Package epstopdf Info: Source file: <./verticalbar.eps>
+(epstopdf)                    date: 2014-07-13 15:10:50
+(epstopdf)                    size: 79221 bytes
+(epstopdf)             Output file: <./verticalbar-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:24
+(epstopdf)                    size: 5531 bytes
+(epstopdf)             Command: <repstopdf --outfile=./verticalbar-eps-converte
+d-to.pdf ./verticalbar.eps>
+(epstopdf)             \includegraphics on input line 34.
+Package epstopdf Info: Output file is already uptodate.
+
+<./verticalbar-eps-converted-to.pdf, id=3, 48.18pt x 570.13pt>
+File: ./verticalbar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./verticalbar-eps-converted-to.pdf>
+Package pdftex.def Info: ./verticalbar-eps-converted-to.pdf used on input line 
+34.
+(pdftex.def)             Requested size: 71.41257pt x 845.04933pt.
+ [1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ctb_l
+ogo_uright-eps-converted-to.pdf> <./verticalbar-eps-converted-to.pdf> <./AVS_lo
+go-eps-converted-to.pdf>])
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 22.
+
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/ts1aer.fd
+File: ts1aer.fd 
+)
+LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <12> not available
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 22.
+Package epstopdf Info: Source file: <./tpCatalyst.eps>
+(epstopdf)                    date: 2014-08-28 10:58:21
+(epstopdf)                    size: 1943706 bytes
+(epstopdf)             Output file: <./tpCatalyst-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-08-28 10:58:45
+(epstopdf)                    size: 448796 bytes
+(epstopdf)             Command: <repstopdf --outfile=./tpCatalyst-eps-converted
+-to.pdf ./tpCatalyst.eps>
+(epstopdf)             \includegraphics on input line 34.
+Package epstopdf Info: Output file is already uptodate.
+
+<./tpCatalyst-eps-converted-to.pdf, id=25, 699.61375pt x 258.9675pt>
+File: ./tpCatalyst-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./tpCatalyst-eps-converted-to.pdf>
+Package pdftex.def Info: ./tpCatalyst-eps-converted-to.pdf used on input line 3
+4.
+(pdftex.def)             Requested size: 418.25368pt x 154.82056pt.
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 39.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 39.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [1]
+Overfull \hbox (14.58926pt too wide) in paragraph at lines 39--39
+[]\T1/aer/bx/n/17.28 Industry code based and key-word based searches
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]\T1/aer/m/n/10.95 product spec-i-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]\T1/aer/m/n/10.95 product de-vel-op-
+ []
+
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+<use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 57.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [2 <./tpCatalyst-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./UCRaD_02.eps>
+(epstopdf)                    date: 2014-08-25 09:42:30
+(epstopdf)                    size: 1215764 bytes
+(epstopdf)             Output file: <./UCRaD_02-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-08-25 10:21:24
+(epstopdf)                    size: 396841 bytes
+(epstopdf)             Command: <repstopdf --outfile=./UCRaD_02-eps-converted-t
+o.pdf ./UCRaD_02.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+ <./UCRaD_02-eps-converted-to.pdf, id=37, 537.00626pt x 197.73875pt>
+File: ./UCRaD_02-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./UCRaD_02-eps-converted-to.pdf>
+Package pdftex.def Info: ./UCRaD_02-eps-converted-to.pdf used on input line 62.
+
+(pdftex.def)             Requested size: 418.25368pt x 154.01233pt.
+Package epstopdf Info: Source file: <./UCRaD_04.eps>
+(epstopdf)                    date: 2014-08-25 14:40:15
+(epstopdf)                    size: 2517355 bytes
+(epstopdf)             Output file: <./UCRaD_04-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-08-25 15:05:41
+(epstopdf)                    size: 503170 bytes
+(epstopdf)             Command: <repstopdf --outfile=./UCRaD_04-eps-converted-t
+o.pdf ./UCRaD_04.eps>
+(epstopdf)             \includegraphics on input line 69.
+Package epstopdf Info: Output file is already uptodate.
+
+<./UCRaD_04-eps-converted-to.pdf, id=38, 541.02126pt x 223.83624pt>
+File: ./UCRaD_04-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./UCRaD_04-eps-converted-to.pdf>
+Package pdftex.def Info: ./UCRaD_04-eps-converted-to.pdf used on input line 69.
+
+(pdftex.def)             Requested size: 418.25368pt x 173.04778pt.
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 73.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [3 <./UCRaD_02-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./UCRaD_03a.eps>
+(epstopdf)                    date: 2014-08-25 16:46:34
+(epstopdf)                    size: 1775077 bytes
+(epstopdf)             Output file: <./UCRaD_03a-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-08-25 17:08:35
+(epstopdf)                    size: 579891 bytes
+(epstopdf)             Command: <repstopdf --outfile=./UCRaD_03a-eps-converted-
+to.pdf ./UCRaD_03a.eps>
+(epstopdf)             \includegraphics on input line 81.
+Package epstopdf Info: Output file is already uptodate.
+ <./UCRaD_03a-eps-converted-to.pdf, id=46, 541.02126pt x 309.155pt>
+File: ./UCRaD_03a-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./UCRaD_03a-eps-converted-to.pdf>
+Package pdftex.def Info: ./UCRaD_03a-eps-converted-to.pdf used on input line 81
+.
+(pdftex.def)             Requested size: 418.25368pt x 239.00769pt.
+
+<AVS_OS_Docu-002.pdf, id=47, 433.62pt x 433.62pt>
+File: AVS_OS_Docu-002.pdf Graphic file (type pdf)
+ <use AVS_OS_Docu-002.pdf>
+Package pdftex.def Info: AVS_OS_Docu-002.pdf used on input line 89.
+(pdftex.def)             Requested size: 334.60422pt x 334.62286pt.
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 95.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [4 <./UCRaD_04-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 95.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [5 <./AVS_OS_Docu-002.pdf>]
+Underfull \hbox (badness 1983) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 cials (not fully re-
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 ple. Search was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 ad-justed to se-lect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 pa-nies re-port-ing
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 pric-ing search key-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/aer/m/n/10.95 Created to as-sess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 the ref-er-ence pe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 com-pa-ra-bles based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/aer/m/n/10.95 Created to as-sess
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 the ref-er-ence pe-ri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/aer/m/n/10.95 Created to as-sess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/aer/m/n/10.95 the ref-er-ence pe-
+ []
+
+(./AVS_OS_Docu.bbl)
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 129.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [6 <./UCRaD_03a-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./ctb_logo_uright.eps>
+(epstopdf)                    date: 2014-07-13 15:10:53
+(epstopdf)                    size: 10613 bytes
+(epstopdf)             Output file: <./ctb_logo_uright-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-07-13 15:22:22
+(epstopdf)                    size: 6097 bytes
+(epstopdf)             Command: <repstopdf --outfile=./ctb_logo_uright-eps-conv
+erted-to.pdf ./ctb_logo_uright.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+File: ./ctb_logo_uright-eps-converted-to.pdf Graphic file (type pdf)
+ <use ./ctb_logo_uright-eps-converted-to.pdf>
+Package pdftex.def Info: ./ctb_logo_uright-eps-converted-to.pdf used on input l
+ine 129.
+(pdftex.def)             Requested size: 149.38092pt x 49.79364pt.
+ [7]
+(./AVS_OS_Docu.aux) ) 
+Here is how much of TeX's memory you used:
+ 4315 strings out of 493108
+ 61049 string characters out of 6134847
+ 135465 words of memory out of 5000000
+ 7622 multiletter control sequences out of 15000+600000
+ 57817 words of font info for 106 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,14n,46p,741b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-sup
+er/cm-super-ts1.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmcsc10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/eurosym/feym
+r10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm109
+5.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.
+pfb>
+Output written on AVS_OS_Docu.pdf (8 pages, 2072272 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
